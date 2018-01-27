@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Sat Jan 20 17:41:20 CST 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0161-15f2-a99f-0000043829f8 
-on database directory memory:C:\springbootcode\college-demo-data\testdb with class loader sun.misc.Launcher$AppClassLoader@4e25154f 
+Thu Jan 25 18:41:33 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0161-2fe9-9615-000007de6e00 
+on database directory memory:C:\Users\prath\git\college-demo-data\testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
 Loaded from file:/C:/Users/prath/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_151-b12
-user.dir=C:\springbootcode\college-demo-data
+user.dir=C:\Users\prath\git\college-demo-data
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0
